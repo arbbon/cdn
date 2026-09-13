@@ -1,1 +1,5 @@
-"updates" = "0"
+{
+  "version": "0.3.1",
+  "notes": "Game Launch Fix",
+  "url": "https://raw.githubusercontent.com/arbbon/cdn/main/AuraClientFiles/AuraClient-Portable.exe"
+}
